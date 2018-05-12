@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '442'
     url: http://www.gutenberg.org/2009/agents/442
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36376#The-Life-of-Benjamin-Franklingreat-man-never-before-published-by-any-of-his-biographers
 gutenberg_issued: '2011-06-13'
 gutenberg_type: Text
 identifiers:
